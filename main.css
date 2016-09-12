@@ -1,0 +1,17 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	color: #027360;
+}
+
+h1 {
+	
+	font-size: 32px;
+}
+
+.profile {
+	text-align: left;
+}
